@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=omkard267&color=blueviolet" alt="profile views" /> 
 </p>
 <p align="center">
-<a href="https://omkardhumal.vercel.app/">Portfolio</a>
+<a href="https://omkardhumal.vercel.app/"> 🔗 Portfolio </a>
 </p>
 
 ---
