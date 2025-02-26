@@ -7,8 +7,13 @@
   <img src="https://komarev.com/ghpvc/?username=omkard267&color=blueviolet" alt="profile views" /> 
 </p>
 
-#### Portfolio - [https://omkardhumal.vercel.app/](https://omkardhumal.vercel.app/)
+---
 
+<p align="center">
+#### Portfolio - [https://omkardhumal.vercel.app/](https://omkardhumal.vercel.app/)
+</p>
+
+---
 
 ### 🔥 About Me
 - 🌱 Currently mastering **MERN Stack & System Design**
