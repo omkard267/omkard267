@@ -7,11 +7,17 @@
   <img src="https://komarev.com/ghpvc/?username=omkard267&color=blueviolet" alt="profile views" /> 
 </p>
 
+portfolio - https://omkardhumal.vercel.app/
+
 ### 🔥 About Me
 - 🌱 Currently mastering **MERN Stack & System Design**
+  
 - 👯 Looking to collaborate on **Open Source Projects**
+  
 - 🎯 2025 Goals: Contribute to 10+ repositories & ace coding contests
+  
 - ⚡ Passionate about **competitive coding** and solving complex problems
+  
 - 📬 Reach me: 
   - 📧 omkardhumal267@gmail.com
 
